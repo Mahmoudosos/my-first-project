@@ -1,0 +1,345 @@
+/* @media (max-width: 22em) {
+  .titlebtn {
+    margin-left: 60rem;
+  }
+  .heroimg {
+    width: 65rem;
+  }
+  .items-6 {
+    grid-template-columns: 0.3fr 0.3fr 0.3fr;
+  }
+  .photoblue {
+    left: 10rem;
+  }
+}
+
+@media (max-width: 16em) {
+  .list1 {
+    margin-left: 0.5rem;
+    margin-right: 0rem;
+  }
+  .get-started {
+    margin-left: 1rem;
+  }
+  .fast {
+    margin-right: 0.5rem;
+  }
+  .items6 {
+    width: 100rem;
+    height: 60rem;
+  }
+  .about {
+    width: 85rem;
+    height: 50rem;
+  }
+  .need {
+    width: 100rem;
+    height: 50rem;
+  }
+  .wathching {
+    margin-left: 0rem;
+  }
+  .itemssimple3 {
+    grid-template-columns: 0.1fr 0.1fr 0.1fr;
+  }
+  .fresh {
+    height: 50rem;
+    width: 30rem;
+  }
+  .fresh1 {
+    height: 50rem;
+    width: 30rem;
+  }
+  #box {
+    width: 20rem;
+  }
+  .big-text1::before {
+    left: 18rem;
+  }
+  .simpletext {
+    margin-left: 1rem;
+  }
+  .btnsimple {
+    margin-left: 50rem;
+  }
+  .photoblue {
+    width: 90rem;
+    left: 5rem;
+  }
+  .imgforcustemrs {
+    margin-left: 12rem;
+  }
+  .stars {
+    margin-left: 15rem;
+  }
+  .rate {
+    margin-left: 18rem;
+  }
+  .hansondeck {
+    left: 30rem;
+  }
+  .platforms {
+    grid-template-columns: repeat(6, 0.1fr);
+    margin-left: 30rem;
+  }
+  .beforefinal {
+    grid-template-columns: repeat(4, 0.19fr);
+  }
+  .final2 {
+    margin-left: 0;
+  }
+  .heroimg {
+    height: 50rem;
+    width: 60rem;
+  }
+  .start {
+    grid-template-columns: 0.1fr 0.1fr;
+  }
+  .titlebtn {
+    margin-left: ;
+  }
+  .section3 {
+    width: 88rem;
+  }
+  .section4 {
+    width: 88rem;
+  }
+  .section5 {
+    width: 88rem;
+  }
+  .section6 {
+    width: 100rem;
+  }
+  .section7 {
+    width: 88rem;
+  }
+  .watchimg1 {
+    width: 50rem;
+  }
+  .final {
+    width: 100.92rem;
+  }
+  .section10 {
+    width: 100.92rem;
+  }
+  .titlebtn {
+    margin-left: 30rem;
+  }
+  .itemssimple3 {
+    margin-left: 0.2rem;
+  }
+  .btnsimple {
+    margin-left: 41rem;
+  }
+  .final {
+    width: 100rem;
+  }
+  .section10 {
+    width: 100rem;
+  }
+  .imgforcustemrs;
+} */
+@media (max-width: 11em) {
+  .list1 {
+    display: none;
+  }
+  .get-started {
+    margin-left: 35rem;
+  }
+  .start {
+    grid-template-columns: 1fr;
+  }
+  .items-6 {
+    grid-template-columns: 0.5fr;
+    /* grid-template-rows: repeat(6, 1fr); */
+  }
+  .abouting {
+    display: none;
+  }
+  .about {
+    width: 60rem;
+    height: 40rem;
+  }
+  .abouttext {
+    width: 60rem;
+    margin-left: 1rem;
+  }
+  .truelist {
+    display: block;
+  }
+  .marketingverysmall {
+    text-align: center;
+  }
+  .marketing {
+    text-align: center;
+  }
+  .marketingsmall {
+    text-align: center;
+  }
+  .marketingsmall1 {
+    text-align: center;
+  }
+  .listandpicter {
+    grid-template-columns: 0.5fr;
+    grid-template-rows: 1.5fr 0.5fr;
+    margin-left: 5rem;
+  }
+  .redimg {
+    grid-column: 1/2;
+    margin-left: 5rem;
+  }
+  .colorslist {
+    height: 1rem;
+  }
+  .needtextbig1 {
+    text-align: center;
+  }
+  .needtextbig2 {
+    text-align: center;
+  }
+  .needtextsmall1 {
+    text-align: center;
+  }
+  .section3 {
+    width: 70rem;
+    height: 100rem;
+  }
+  .work4 {
+    display: grid;
+    width: 5rem;
+    margin-left: 26rem;
+  }
+  .work44 {
+    padding: 5rem 15rem;
+  }
+  .watchimg {
+    display: none;
+  }
+  .watchtext2 {
+    display: none;
+  }
+  .watchimg1 {
+    width: 50rem;
+    height: 30rem;
+  }
+  .video-slide {
+    margin-left: 10rem;
+  }
+  .itemssimple3 {
+    grid-template-columns: 1fr;
+  }
+  .fresh {
+    margin-left: 8rem;
+    margin-bottom: 1rem;
+  }
+  .fresh1 {
+    margin-left: 8rem;
+    margin-bottom: 1rem;
+  }
+  .section7 {
+    width: 75rem;
+  }
+  .btnsimple {
+    margin-left: 30rem;
+  }
+  .section8 {
+    height: 70rem;
+  }
+  .photoblue {
+    height: 60rem;
+    left: 5rem;
+    width: 62rem;
+  }
+  .hansondeck {
+    left: 10rem;
+    top: 42rem;
+    height: 20rem;
+    width: 60rem;
+  }
+  .imgforcustemrs {
+    margin-left: 29rem;
+  }
+  .stars {
+    margin-left: 31rem;
+  }
+  .rate {
+    margin-left: 34rem;
+  }
+  .section9 {
+    width: 50rem;
+  }
+  .platforms {
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 17rem;
+  }
+  .platformdown {
+    grid-column: 1/2;
+  }
+  .platformlast {
+    grid-column: 2/3;
+  }
+  .platformstext {
+    margin-left: 9rem;
+  }
+  .beforefinal {
+    grid-template-columns: 0.3fr;
+    margin-left: 20rem;
+  }
+  .logolast {
+    margin: 2rem;
+    margin-bottom: 4rem;
+  }
+  .read-more {
+    margin-left: 2rem;
+  }
+  .face {
+    padding: 1.8rem;
+  }
+  .part2 {
+    margin-top: 2rem;
+  }
+  .titlecompany {
+    margin-left: 4.4rem;
+  }
+  .wordpresstext3 {
+    margin-left: 5.2rem;
+  }
+  .emailcontent {
+    margin-left: 2rem;
+  }
+  .emailcontent2 {
+    margin-left: 2.2rem;
+  }
+  .emailcontent3 {
+    margin-left: 0.01rem;
+  }
+  .finalcontent {
+    grid-template-columns: 1fr;
+  }
+  .final1 {
+    margin-left: 15rem;
+  }
+  .final2 {
+    margin-left: 2rem;
+  }
+  .titlebtn {
+    margin-left: 10rem;
+  }
+  .title {
+    display: grid;
+    margin-left: 15rem;
+  }
+  .titletext1 {
+    margin-left: 1rem;
+  }
+  .heroimg {
+    height: 20rem;
+    margin-left: 45rem;
+  }
+  .items-6 {
+    margin-left: 19rem;
+  }
+  .fast {
+    width: 35rem;
+  }
+}
